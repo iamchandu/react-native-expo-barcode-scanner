@@ -1,4 +1,4 @@
-##React Native Expo barcode scanner  
+## React Native Expo barcode scanner  
 
 Install dependencies `npm install`
 
